@@ -1,5 +1,14 @@
 
 ## 🌐 Socials:
+<br clear="both">
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amal.babu.90813) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amalbabu0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amalbabu2803) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/amalbabu0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Amalbabu0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amalbabu2803@gmail.com) 
 
 # 💻 Tech Stack:
