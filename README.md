@@ -1,6 +1,20 @@
-<!-- HEADER -->
-<h1 align="center">Hi there 👋, I'm Amal Babu</h1>
+<!-- <h1 align="center">Hi there 👋
 
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/aryan-ranjan03">
+  <div align="center">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2500&color=22C55E&center=true&vCenter=true&width=420&lines=I'm+Aryan+Ranjan" 
+      alt="Name Typing SVG" 
+    />
+    <br/>
+  </div>
+  <h3 align="center">Aspiring ML & Embedded Systems Engineer | Building CV, IoT & Data Products</h3>
+
+</a>
+</p>
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2500&color=22C55E&center=true&vCenter=true&width=420&lines=Amal+Babu+-+Mainframe+Developer+|+COBOL/JCL+Specialist" 
