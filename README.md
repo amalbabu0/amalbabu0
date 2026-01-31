@@ -1,23 +1,3 @@
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
-      font-size: 48px;
-      font-weight: 600;
-      fill: #0f172a;
-    }
-    .highlight {
-      fill: #38bdf8;
-    }
-  </style>
-
-  <rect width="100%" height="100%" fill="transparent"/>
-
-  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" class="text">
-    Hi, I'm <tspan class="highlight">Amal Babu</tspan>
-  </text>
-</svg>
-
 ##  About Me
 A passionate Application developer and cybersecurity professional who loves crafting immersive digital experiences.
 
@@ -52,7 +32,7 @@ A passionate Application developer and cybersecurity professional who loves craf
 
 <p align = 'center'>
 <a href="https://github.com/amalbabu0?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=amalbabu0&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@amal's github-readme-stats"/></a>
-<a href="https://github.com/amalbabu0?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
+<a href="https://github.com/amalbabu0?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@amal's github-readme-streak-stats"/></a>
  <!-- <a href="https://github.com/amalbabu0/beautiful-github-homepage"><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=amalbabu0&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="amalbabu0" /></a> -->
  
 </p>
