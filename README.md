@@ -47,8 +47,8 @@ A passionate Application developer and cybersecurity professional who loves craf
 
 
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@Aryan's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@Aryan's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@amal's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@amal's profile-details"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@amal's profile-details"/></a>
 </p>
 <table align="center" width="100%">
