@@ -120,7 +120,6 @@ const Analyst Trainee = {
     <img src="https://img.shields.io/badge/dynamic/json?url=http://amalbabu.xyz/data.json&query=$.status&label=Website&style=for-the-badge" alt="Website Status"/>
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
