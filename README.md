@@ -113,6 +113,7 @@ const Analyst Trainee = {
   <a href="https://github.com/amalbabu0">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  ![Status](https://img.shields.io/badge/dynamic/json?url=http://amalbabu.xyz/data.json&query=$.status&label=Website)
 </p>
 
 
