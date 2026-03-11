@@ -107,16 +107,19 @@ const Analyst Trainee = {
   <a href="https://www.linkedin.com/in/amalbabu2803/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:aryanr.amalbabu0@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
+  
   <a href="https://github.com/amalbabu0">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  ![Status](https://img.shields.io/badge/dynamic/json?url=http://amalbabu.xyz/data.json&query=$.status&label=Website)
+
+  <a href="http://amalbabu.xyz/">
+    <img src="https://img.shields.io/badge/dynamic/json?url=http://amalbabu.xyz/data.json&query=$.status&label=Website&style=for-the-badge" alt="Website Status"/>
+  </a>
 </p>
-
-
 ---
 
 <p align="center">
