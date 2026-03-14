@@ -33,7 +33,7 @@ A passionate Application developer and cybersecurity professional who loves craf
 </p>
 
 <p align = 'center'>
-<a href="https://github.com/amalbabu0?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=amalbabu0&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@amal's github-readme-stats"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=amalbabu0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=3b82f6&text_color=94a3b8&ring_color=00ffa3"  width="48%" alt="@amal's github-readme-stats"/></a>
 <a href="https://github.com/amalbabu0?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@amal's github-readme-streak-stats"/></a>
  <!-- <a href="https://github.com/amalbabu0/beautiful-github-homepage"><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=amalbabu0&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="amalbabu0" /></a> -->
  
@@ -70,8 +70,7 @@ A passionate Application developer and cybersecurity professional who loves craf
       />
     </td>
     <td align="center">
-      <img
-        src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=amalbabu0&layout=compact&theme=gotham&count_private=true&hide_border=true"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalbabu0&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=94a3b8&langs_count=8"
         height="180"
         alt="Top Languages"
       />
