@@ -1,6 +1,6 @@
 ##  About Me
 A passionate Application developer and cybersecurity professional who loves crafting immersive digital experiences.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Application+Developer+%F0%9F%92%BB;Cybersecurity+Analyst+%F0%9F%94%90;Mainframe+Engineer+%F0%9F%96%A5%EF%B8%8F;Bug+Hunter+%E2%88%9E;Building+Secure+Digital+Experiences)](https://git.io/typing-svg)
 ## Statistics
 
 
