@@ -57,7 +57,7 @@ A passionate Application developer and cybersecurity professional who loves craf
   <tr>
     <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=gotham&hide_border=true"
+        src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=gotham&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=amalbabu0&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=94a3b8&langs_count=8)"
         height="180"
         alt="Most Commit Language"
       />
