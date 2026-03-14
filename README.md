@@ -29,7 +29,7 @@ A passionate Application developer and cybersecurity professional who loves craf
 
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=amalbabu0&cache_seconds=1800&show_icons=true"></a>
+ <a href="[https://github-readme-stats.vercel.app/api?username=amalbabu0&cache_seconds=1800&show_icons=true](https://github-readme-stats.vercel.app/api?username=amalbabu0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=3b82f6&text_color=94a3b8&ring_color=00ffa3)"></a>
 </p>
 
 <p align = 'center'>
