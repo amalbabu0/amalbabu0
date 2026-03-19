@@ -117,7 +117,9 @@ const Analyst Trainee = {
     <img src="https://img.shields.io/badge/dynamic/json?url=http://amalbabu.xyz/data.json&query=$.status&label=Website&style=for-the-badge" alt="Website Status"/>
   </a>
 
-  <iframe src="https://github.com/sponsors/amalbabu0/button" title="Sponsor amalbabu0" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+  <a href="https://github.com/sponsors/amalbabu0" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-❤-ff69b4?style=for-the-badge" alt="Sponsor amalbabu0"/>
+</a>
   
 </p>
 
