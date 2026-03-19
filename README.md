@@ -105,6 +105,11 @@ const Analyst Trainee = {
 ## Connect
 
 <p align="center">
+
+  <a href="https://github.com/sponsors/amalbabu0" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-❤-ff69b4?style=for-the-badge" alt="Sponsor amalbabu0"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/amalbabu2803/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -116,10 +121,6 @@ const Analyst Trainee = {
   <a href="http://amalbabu.xyz/">
     <img src="https://img.shields.io/badge/dynamic/json?url=http://amalbabu.xyz/data.json&query=$.status&label=Website&style=for-the-badge" alt="Website Status"/>
   </a>
-
-  <a href="https://github.com/sponsors/amalbabu0" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-❤-ff69b4?style=for-the-badge" alt="Sponsor amalbabu0"/>
-</a>
   
 </p>
 
