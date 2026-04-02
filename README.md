@@ -29,16 +29,16 @@ A passionate Application developer and cybersecurity professional who loves craf
 
 
 <p align = 'center'>
- <a href="[https://github-readme-stats.vercel.app/api?username=amalbabu0&cache_seconds=1800&show_icons=true](https://github-readme-stats.vercel.app/api?username=amalbabu0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=3b82f6&text_color=94a3b8&ring_color=00ffa3)"></a>
-</p>
-
-<p align = 'center'>
 <img src="https://github-readme-stats.vercel.app/api?username=amalbabu0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=3b82f6&text_color=94a3b8&ring_color=00ffa3"  width="48%" alt="@amal's github-readme-stats"/></a>
 <a href="https://github.com/amalbabu0?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@amal's github-readme-streak-stats"/></a>
  <!-- <a href="https://github.com/amalbabu0/beautiful-github-homepage"><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=amalbabu0&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="amalbabu0" /></a> -->
  
 </p>
-
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&theme=gotham&count_private=true&hide_border=true"
+        height="180"
+        alt="Repos Per Language"
+      />
 
 <p align="center">
     <a href="https://wakatime.com/@amalbabu0">
@@ -53,23 +53,7 @@ A passionate Application developer and cybersecurity professional who loves craf
 <a href="https://github.com/issues?q=is%3Aissue+author%3Aamalbabu0+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@amal's profile-details"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3Aamalbabu0+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@amal's profile-details"/></a>
 </p>
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&theme=gotham&count_private=true&hide_border=true"
-        height="180"
-        alt="Repos Per Language"
-      />
-    </td>
-    <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalbabu0&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=94a3b8&langs_count=8"
-        height="180"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+
 
 
 ---
