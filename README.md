@@ -1,5 +1,3 @@
----
-
 ## About Me
 
 A passionate **Application Developer** and **Cybersecurity Professional** who loves crafting immersive digital experiences.
