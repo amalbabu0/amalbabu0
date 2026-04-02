@@ -1,125 +1,94 @@
-##  About Me
-A passionate Application developer and cybersecurity professional who loves crafting immersive digital experiences.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffa3,100:3b82f6&height=200&section=header&text=Amal%20Babu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%26%20Security%20Analyst&descColor=a0aec0&descAlignY=58&animation=twinkling" width="100%" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Application+Developer;Cybersecurity+Analyst;Mainframe+Engineer;Bug+Hunter;Building+Secure+Digital+Experiences)](https://git.io/typing-svg)
-## Statistics
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Application+Developer+%F0%9F%92%BB;Cybersecurity+Analyst+%F0%9F%94%90;Mainframe+Engineer+%F0%9F%96%A5%EF%B8%8F;Bug+Hunter+%E2%88%9E;Building+Secure+Digital+Experiences)](https://git.io/typing-svg)
 
+</div>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amalbabu0&theme=gotham" height="180em"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=gotham" height="180em"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&theme=gotham" height="180em"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&theme=gotham" height="180em"></td>
-  </tr>
-  <tr>
-  </tr>
-</table>
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+## About Me
 
-
-<p align = 'center'>
- <a href="[https://github-readme-stats.vercel.app/api?username=amalbabu0&cache_seconds=1800&show_icons=true](https://github-readme-stats.vercel.app/api?username=amalbabu0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=3b82f6&text_color=94a3b8&ring_color=00ffa3)"></a>
-</p>
-
-<p align = 'center'>
-<img src="https://github-readme-stats.vercel.app/api?username=amalbabu0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=3b82f6&text_color=94a3b8&ring_color=00ffa3"  width="48%" alt="@amal's github-readme-stats"/></a>
-<a href="https://github.com/amalbabu0?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@amal's github-readme-streak-stats"/></a>
- <!-- <a href="https://github.com/amalbabu0/beautiful-github-homepage"><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=amalbabu0&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="amalbabu0" /></a> -->
-
-</p>
-
-
-<p align="center">
-    <a href="https://wakatime.com/@amalbabu0">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalbabu0&cache_seconds=1800&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20in%20all%20Repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-
-
-<p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3Aamalbabu0+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@amal's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3Aamalbabu0+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@amal's profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3Aamalbabu0+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@amal's profile-details"/></a>
-</p>
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img
-        src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=gotham&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=amalbabu0&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=94a3b8&langs_count=8)"
-        height="180"
-        alt="Most Commit Language"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&theme=gotham&count_private=true&hide_border=true"
-        height="180"
-        alt="Repos Per Language"
-      />
-    </td>
-    <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalbabu0&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=94a3b8&langs_count=8"
-        height="180"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
+A passionate **Application Developer** and **Cybersecurity Professional** who loves crafting immersive digital experiences.
 
 ---
 
 ## Current Focus
 
 ```javascript
-const Analyst Trainee = {
-                        name: "Amal",
-  role: "Analyst Trainee",
-  location: "Kerala,India",
+const analystTrainee = {
+  name:              "Amal",
+  role:              "Analyst Trainee",
+  location:          "Kerala, India",
   interests: [
     "Application Development",
     "UI/UX Design",
     "Cybersecurity",
-    "Creative Coding"
+    "Creative Coding",
   ],
   currentlyLearning: [
-    "Legacy Mainframe",
-    "Handle z/OS ops"
+    "Legacy Mainframe (JCL, COBOL, VSAM)",
+    "z/OS System Operations",
   ],
-    funFact: "Farming drives my purpose"
+  funFact:           "🌱 Farming drives my purpose",
 };
 ```
+
+---
+
+## Statistics
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=amalbabu0&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-streak-stats-ruby.vercel.app?user=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalbabu0&cache_seconds=1800&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contributions%20Across%20All%20Repos" width="95%" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&cache_seconds=1800&theme=gotham&utcOffset=5.30" width="31%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=gotham&hide_border=true" width="64%" alt="Profile Details"/>
+</p>
+
+<table align="center"> 
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=gotham&hide_border=true" height="180" alt="Most Commit Language"/>
+    </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amalbabu0&theme=gotham" height="180em"></td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&theme=gotham&count_private=true&hide_border=true" height="180" alt="Repos Per Language"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Connect
 
 <p align="center">
-
   <a href="https://github.com/sponsors/amalbabu0" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-❤-ff69b4?style=for-the-badge" alt="Sponsor amalbabu0"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/amalbabu2803/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:amalbabu2803@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="https://www.linkedin.com/in/amal-babu-6aa8a1248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="http://amalbabu.xyz/">
-    <img src="https://img.shields.io/badge/dynamic/json?url=http://amalbabu.xyz/data.json&query=$.status&label=Website&style=for-the-badge" alt="Website Status"/>
+    <img src="https://img.shields.io/badge/Website-Visit-00FFA3?style=for-the-badge&logo=vercel&logoColor=black" alt="Website"/>
   </a>
-
+  
+  <a href="mailto:amalbabu2803@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:00ffa3&height=120&section=footer" width="100%" alt="Footer"/>
