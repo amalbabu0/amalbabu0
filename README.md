@@ -6,8 +6,7 @@ A passionate Application developer and cybersecurity professional who loves craf
 ## Statistics
 
 
-
-<!-- <table align="center">
+<table align="center">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amalbabu0&theme=gotham" height="180em"></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=gotham" height="180em"></td>
@@ -21,7 +20,7 @@ A passionate Application developer and cybersecurity professional who loves craf
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&theme=gotham" height="180em">
     </td>
   </tr>
-</table> -->
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
