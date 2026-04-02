@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffa3,100:3b82f6&height=200&section=header&text=Amal%20Babu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%26%20Security%20Analyst&descColor=a0aec0&descAlignY=58&animation=twinkling" width="100%" alt="Header"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Application+Developer+%F0%9F%92%BB;Cybersecurity+Analyst+%F0%9F%94%90;Mainframe+Engineer+%F0%9F%96%A5%EF%B8%8F;Bug+Hunter+%E2%88%9E;Building+Secure+Digital+Experiences)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## About Me
@@ -13,29 +5,7 @@
 A passionate **Application Developer** and **Cybersecurity Professional** who loves crafting immersive digital experiences.
 
 ---
-
-## Current Focus
-
-```javascript
-const analystTrainee = {
-  name:              "Amal",
-  role:              "Analyst Trainee",
-  location:          "Kerala, India",
-  interests: [
-    "Application Development",
-    "UI/UX Design",
-    "Cybersecurity",
-    "Creative Coding",
-  ],
-  currentlyLearning: [
-    "Legacy Mainframe (JCL, COBOL, VSAM)",
-    "z/OS System Operations",
-  ],
-  funFact:           "🌱 Farming drives my purpose",
-};
-```
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Application+Developer+%F0%9F%92%BB;Cybersecurity+Analyst+%F0%9F%94%90;Mainframe+Engineer+%F0%9F%96%A5%EF%B8%8F;Bug+Hunter+%E2%88%9E;Building+Secure+Digital+Experiences)](https://git.io/typing-svg)
 
 ## Statistics
 
