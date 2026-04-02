@@ -16,9 +16,6 @@ A passionate Application developer and cybersecurity professional who loves craf
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&theme=gotham" height="180em"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&theme=gotham" height="180em">
-    </td>
   </tr>
 </table>
 
