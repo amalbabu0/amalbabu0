@@ -46,11 +46,11 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
 <table align="center"> 
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&border_color=E11D2E" height="180" alt="Most Commit Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&border_color=0A0404" height="180" alt="Most Commit Language"/>
     </td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amalbabu0&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E&border_color=E11D2E" height="180em"></td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&count_private=true&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&border_color=E11D2E" height="180" alt="Repos Per Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&count_private=true&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&border_color=0A0404" height="180" alt="Repos Per Language"/>
     </td>
   </tr>
 </table>
