@@ -39,18 +39,18 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&cache_seconds=1800&theme=github_dark&utcOffset=5.30" width="31%" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=github_dark&hide_border=true" width="64%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&cache_seconds=1800&utcOffset=5.30&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E&chart_color=E11D2E&border_color=E11D2E" width="31%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E&border_color=E11D2E" width="64%" alt="Profile Details"/>
 </p>
 
 <table align="center"> 
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=github_dark&hide_border=true" height="180" alt="Most Commit Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&border_color=E11D2E" height="180" alt="Most Commit Language"/>
     </td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amalbabu0&theme=github_dark" height="180em"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amalbabu0&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E&border_color=E11D2E" height="180em"></td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&theme=github_dark&count_private=true&hide_border=true" height="180" alt="Repos Per Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&count_private=true&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&border_color=E11D2E" height="180" alt="Repos Per Language"/>
     </td>
   </tr>
 </table>
