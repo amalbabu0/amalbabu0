@@ -1,24 +1,6 @@
 ## About Me
 
-<a href="https://gravatar.com/amalbabu2803" target="_blank">
-  <img src="https://2.gravatar.com/avatar/17d611652d6c33886ebddb1e24bc45e18d99369a9df588893fc3f5563b829581?s=256&d=initials" width="220" align="left" alt="Amal Babu"/>
-</a>
-
-### Amal Babu
-**Developer | Cybersecurity Analyst**
-📍 Kozhikode, Kerala
-
-*A farmer in the digital world*
-
-<p>
-  <a href="https://gravatar.com/amalbabu2803" target="_blank"><img src="https://img.shields.io/badge/Gravatar-E11D2E?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar"/></a>
-  <a href="https://x.com/amalbabu2803" target="_blank"><img src="https://img.shields.io/badge/X-E11D2E?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.linkedin.com/in/amalbabu2803" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E11D2E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/amalbabu0" target="_blank"><img src="https://img.shields.io/badge/GitHub-E11D2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:amalbabu2803@gmail.com"><img src="https://img.shields.io/badge/Contact-E11D2E?style=for-the-badge" alt="Contact"/></a>
-</p>
-
-[gravatar.com/amalbabu2803](https://gravatar.com/amalbabu2803) &nbsp;·&nbsp; [View profile →](https://gravatar.com/amalbabu2803)
+<img src="https://www.amalbabu.xyz/hero.webp" width="220" align="left" alt="Amal Babu"/>
 
 A passionate **Application Developer** and **Cybersecurity Professional** who loves crafting immersive digital experiences.
 
