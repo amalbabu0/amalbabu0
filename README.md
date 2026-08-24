@@ -12,7 +12,7 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=amalbabu0&cache_seconds=1800&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-streak-stats-ruby.vercel.app?user=amalbabu0&cache_seconds=1800&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0404&stroke=E11D2E&ring=E11D2E&fire=E11D2E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=amalbabu0&cache_seconds=1800&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0404&stroke=E11D2E&ring=E11D2E&fire=E11D2E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -20,18 +20,18 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&cache_seconds=1800&theme=redgraphite&utcOffset=5.30" width="31%" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=redgraphite&hide_border=true" width="64%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalbabu0&cache_seconds=1800&theme=github_dark&utcOffset=5.30" width="31%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalbabu0&cache_seconds=1800&theme=github_dark&hide_border=true" width="64%" alt="Profile Details"/>
 </p>
 
 <table align="center"> 
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=redgraphite&hide_border=true" height="180" alt="Most Commit Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalbabu0&theme=github_dark&hide_border=true" height="180" alt="Most Commit Language"/>
     </td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amalbabu0&theme=redgraphite" height="180em"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amalbabu0&theme=github_dark" height="180em"></td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&theme=redgraphite&count_private=true&hide_border=true" height="180" alt="Repos Per Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalbabu0&theme=github_dark&count_private=true&hide_border=true" height="180" alt="Repos Per Language"/>
     </td>
   </tr>
 </table>
