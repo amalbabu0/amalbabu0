@@ -1,6 +1,8 @@
 ## About Me
 
-<img src="https://www.amalbabu.xyz/hero.webp" width="220" align="left" alt="Amal Babu"/>
+<a href="https://gravatar.com/amalbabu2803" target="_blank">
+  <img src="https://2.gravatar.com/avatar/17d611652d6c33886ebddb1e24bc45e18d99369a9df588893fc3f5563b829581?s=256&d=initials" width="220" align="left" alt="Amal Babu"/>
+</a>
 
 A passionate **Application Developer** and **Cybersecurity Professional** who loves crafting immersive digital experiences.
 
