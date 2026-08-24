@@ -6,6 +6,24 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=E11D2E&center=true&vCenter=true&width=600&lines=Application+Developer+%F0%9F%92%BB;Cybersecurity+Analyst+%F0%9F%94%90;Mainframe+Engineer+%F0%9F%96%A5%EF%B8%8F;Bug+Hunter+%E2%88%9E;Building+Secure+Digital+Experiences)](https://git.io/typing-svg)
 
+<p>
+  <a href="https://github.com/sponsors/amalbabu0" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-❤-E11D2E?style=for-the-badge&labelColor=0A0404" alt="Sponsor amalbabu0"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/amal-babu-6aa8a1248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-E11D2E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0404" alt="LinkedIn"/>
+  </a>
+
+  <a href="http://amalbabu.xyz/">
+    <img src="https://img.shields.io/badge/Website-Visit-E11D2E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0404" alt="Website"/>
+  </a>
+  
+  <a href="mailto:amalbabu2803@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-E11D2E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0404" alt="Email"/>
+  </a>
+</p>
+
 <br clear="left"/>
 
 ## Statistics
@@ -40,25 +58,5 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
 </table>
 
 ---
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/sponsors/amalbabu0" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-❤-E11D2E?style=for-the-badge&labelColor=0A0404" alt="Sponsor amalbabu0"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/amal-babu-6aa8a1248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-E11D2E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0404" alt="LinkedIn"/>
-  </a>
-
-  <a href="http://amalbabu.xyz/">
-    <img src="https://img.shields.io/badge/Website-Visit-E11D2E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0404" alt="Website"/>
-  </a>
-  
-  <a href="mailto:amalbabu2803@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-E11D2E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0404" alt="Email"/>
-  </a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0404,100:E11D2E&height=120&section=footer" width="100%" alt="Footer"/>
