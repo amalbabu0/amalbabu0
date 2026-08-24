@@ -11,8 +11,7 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=amalbabu0&cache_seconds=1800&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=amalbabu0&cache_seconds=1800&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0404&stroke=E11D2E&ring=E11D2E&fire=E11D2E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=amalbabu0&cache_seconds=1800&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E" width="60%" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
