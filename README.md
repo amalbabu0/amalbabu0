@@ -18,6 +18,10 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
   <a href="http://amalbabu.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-E11D2E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
+
+  <a href="mailto:amalbabu2803@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E11D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=amalbabu0&cache_seconds=1800&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=0A0404&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E" width="360" alt="GitHub Stats"/>
