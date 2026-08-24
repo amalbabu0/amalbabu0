@@ -8,15 +8,15 @@ A passionate **Application Developer** and **Cybersecurity Professional** who lo
 
 <p>
   <a href="https://github.com/sponsors/amalbabu0" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-❤-E11D2E?style=for-the-badge&labelColor=0A0404" alt="Sponsor amalbabu0"/>
+  <img src="https://img.shields.io/badge/Sponsor-E11D2E?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor amalbabu0"/>
   </a>
 
   <a href="https://www.linkedin.com/in/amal-babu-6aa8a1248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-E11D2E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0404" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-E11D2E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="http://amalbabu.xyz/">
-    <img src="https://img.shields.io/badge/Website-Visit-E11D2E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0404" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-E11D2E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
